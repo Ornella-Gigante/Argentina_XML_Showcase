@@ -1,6 +1,6 @@
-# 🌍 Argentina: A Digital Tribute to My Country
+# 🌍 Argentina XML Showcase: A Digital Tribute to My Country
 
-Welcome to **Argentina**! This project is a small work I created using XSL, XML, HTML, and RSS to showcase some characteristics of my beloved country, Argentina, through a website. Here's what you need to know:
+Welcome to **Argentina XML Showcase**! This project is a small work I created using XSL, XML, HTML, and RSS to showcase some characteristics of my beloved country, Argentina, through a website. Here's what you need to know:
 
 ## 🚀 Project Overview
 
@@ -56,10 +56,8 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 ## 🌐 Connect
 
-- [GitHub](https://github.com/Ornella-Gigante)
 - [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
 
-Let's embark on a virtual journey through Argentina with **Argentina**! 🎉
 
 ![Argentina Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png)
 
