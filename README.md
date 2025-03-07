@@ -23,7 +23,7 @@ git clone https://github.com/Ornella-Gigante/argentina.git
 text
 
 2. **Setup Environment**: 
-- Ensure you have a web server or a local development environment set up (e.g., Apache, Nginx, or a simple HTTP server).
+- Ensure you have a web server or a local development environment set up (e.g., Apache, Nginx, or a simple HTTP server)
 
 3. **Run the Website**:
 - Navigate to the project directory.
